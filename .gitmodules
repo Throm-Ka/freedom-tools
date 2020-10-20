@@ -15,13 +15,13 @@
 	url = git://github.com/sifive/riscv-newlib.git
 [submodule "src/riscv-openocd"]
 	path = src/riscv-openocd
-	url = 
+	url = git://github.com/riscv/riscv-openocd.git
 [submodule "src/xc3sprog"]
 	path = src/xc3sprog
 	url = git://github.com/sifive/xc3sprog.git
 [submodule "src/trace-decoder"]
 	path = src/trace-decoder
-	url = 
+	url = git://github.com/sifive/trace-decoder.git
 [submodule "src/dtc"]
 	path = src/dtc
 	url = git://github.com/dgibson/dtc.git
