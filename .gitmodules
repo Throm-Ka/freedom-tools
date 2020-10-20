@@ -13,9 +13,6 @@
 [submodule "src/riscv-newlib"]
 	path = src/riscv-newlib
 	url = git://github.com/sifive/riscv-newlib.git
-[submodule "src/riscv-openocd"]
-	path = src/riscv-openocd
-	url = git://github.com/riscv/riscv-openocd.git
 [submodule "src/xc3sprog"]
 	path = src/xc3sprog
 	url = git://github.com/sifive/xc3sprog.git
@@ -28,6 +25,4 @@
 [submodule "src/freedom-elf2hex"]
 	path = src/freedom-elf2hex
 	url = git://github.com/sifive/freedom-elf2hex.git
-[submodule "src/riscv-qemu"]
-	path = src/riscv-qemu
-	url = git://git.qemu.org/qemu.git
+
